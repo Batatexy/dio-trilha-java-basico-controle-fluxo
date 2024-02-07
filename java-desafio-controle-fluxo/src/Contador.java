@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Informação: eu não soube realizar a atividade da maneira que deveria ser realizada, 
-// mas eu consegui executá-la com os conhecimento que detenho
+// mas eu consegui executá-la com os conhecimentos que detenho
 
 public class Contador {
 	public static void main(String[] args) {
